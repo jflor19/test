@@ -1,0 +1,3 @@
+"It's a beautiful day outside."
+"Birds are singing."
+"Flowers are blooming..."
